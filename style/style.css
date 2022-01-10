@@ -130,7 +130,7 @@ body {
 .six .hat {
   display: inline-block;
   height: 350px;
-  max-width: 100%;
+  width: 263px;
 }
 
 .baloons img {
